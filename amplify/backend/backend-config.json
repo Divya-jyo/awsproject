@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsproject3705bee4": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
